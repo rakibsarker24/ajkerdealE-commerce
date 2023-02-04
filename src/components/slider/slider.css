@@ -1,0 +1,33 @@
+#slider{
+    margin-top: 17px;
+    position: relative;
+}
+#slider .menu{
+    width: 240px;
+    height: 350px;
+    background: rgb(248, 248, 248);
+    position: absolute;
+	top: 0px;
+	left: 90px;
+}
+#slider .menu ul li{
+    display: block;
+    padding:2.5px 0px;
+   
+}
+#slider .menu ul li a {
+	text-decoration: none;
+	color: #333;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+	transition: .4s;
+	-webkit-transition: .4s;
+	-moz-transition: .4s;
+	-ms-transition: .4s;
+	-o-transition: .4s;
+}
+#slider .menu ul li a:hover{
+    color:#f05a2d;
+}
+
+

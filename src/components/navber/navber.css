@@ -1,0 +1,66 @@
+#navber img{
+    width: 100px;
+    cursor: pointer;
+}
+/* #navber {
+    background-color: red;
+} */
+#navber .items{
+    display: flex;
+    position: relative;
+}
+#navber .items .logo{
+    width: 10%;
+    /* background-color: red; */
+}
+#navber .items .search{
+    width: 80%;
+    padding-top:6px;
+    text-align: center;
+}
+#navber .items .search .icon {
+    position: absolute;
+    top: 6px;
+    cursor: pointer;
+    width: 85px;
+    height: 43px;
+    left: 69%;
+    color:white;
+    background-color: #f05a2d;
+    border: 1px solid rgb(109, 109, 109);
+    font-size: 14px !important;
+}
+#navber .items .search input{
+    width: 50%;
+    outline: 0;
+    padding: 7px 12px;
+}
+#navber .items .cart{
+    width: 10%;
+    text-align: right;
+    line-height: 47px;
+     position: relative;
+    /* background-color: aqua; */
+}
+#navber .items .cart .carticon{
+   font-size: 25px;
+   display: inline-block;
+   cursor:pointer;
+}
+#navber .items .cart h4 {
+    position: absolute;
+    top: 9px;
+    left: 109px;
+    font-size: 10px;
+    color: rgb(255 255 255);
+    width: 15px;
+    height: 15px;
+    background-color: #f05a2d;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 1px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}

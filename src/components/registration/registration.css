@@ -1,0 +1,82 @@
+#registration{
+    margin-top: 60px;
+}
+#registration .all{
+    border: 1px solid rgba(240, 90, 45, 0.534);
+    padding: 15px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#registration  .btn{
+    padding: 0;
+    margin-bottom: 10px;
+}
+#registration  .btn a{
+    color:white;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background-color: #f05a2d;
+    border: 1px solid #f05a2d;
+    padding: 5px 107px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+#registration .btn a:hover{
+    color: #333;
+    border: 1px solid #333;
+    background-color: #f8f8f8;
+}
+#registration a{
+    color:#f05a2d;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+#registration img{
+    margin-top:100px;
+}
+#registration h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 27px;
+	font-weight: 700;
+	color: white;
+	text-align: center;
+    margin: 0;
+}
+#registration  .alert-primary {
+	--bs-alert-bg: #f05a2d !important;
+	--bs-alert-border-color: #f05a2d !important;
+}
+#registration  label{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color:#333;
+    font-weight: 400;
+}
+#registration  input{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color:#333;
+    font-weight: 400;
+}
+#registration .red{
+    color: #f05a2d !important;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+#registration p{
+    color: #333;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}

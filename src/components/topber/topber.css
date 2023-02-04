@@ -1,0 +1,18 @@
+#topber{
+    background-color: #424646;
+    line-height: 50px;
+}
+#topber ul li{
+    padding: 0 10px;
+}
+#topber ul li a{
+    text-decoration: none;
+    color:rgb(238, 238, 238);
+    font-family: 'Oswald', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-weight: 300;
+    font-size: 15px;
+}
+#topber .items{
+    text-align: right;
+}

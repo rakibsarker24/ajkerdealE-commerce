@@ -1,0 +1,108 @@
+#footer{
+    margin-top: 90px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    background-color: #333;
+}
+#footer img{
+    width: 125px;
+}
+#footer p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: white;
+    text-align: justify;
+}
+#footer p:last-child{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: white;
+    padding-top: 15px;
+    text-align: justify;
+}
+#footer .icon a{
+    font-size: 16px;
+    color: white;
+    padding-right: 10px;
+    cursor: pointer;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+#footer .icon a:hover{
+	color: #f05a2d;
+}
+#footer .title h4 {
+	font-size: 22px;
+	color: #f05a2d;
+    font-weight: 700;
+	margin-bottom: 35px;
+}
+#footer .right a{
+    font-size: 16px;
+    color: white;
+    padding-right: 10px;
+    cursor: pointer;
+    display: block;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+#footer .right a:hover{
+	color: #f05a2d;
+}
+#footer .end p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: white;
+    text-align: justify;
+}
+#footer .end .subs input{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 3px 5px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+}
+#footer .end .subs a {
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: rgb(49, 49, 49);
+	padding: 5px 5px;
+	background-color: #f05a2d;
+	transition: .4s;
+	-webkit-transition: .4s;
+	-moz-transition: .4s;
+	-ms-transition: .4s;
+	-o-transition: .4s;
+}
+#footer .end .subs a:hover{
+    color: white;
+}
+#footer .location{
+    margin-top: 15px;
+}
+#footer span{
+    font-size: 13px;
+    color:#f1f1f1;
+}
+#footer .location p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: white;
+    display: inline;
+    padding-left: 8px;
+}

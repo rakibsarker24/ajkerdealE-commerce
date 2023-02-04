@@ -1,0 +1,92 @@
+import React, { useState } from "react";
+import '../login/login.css'
+import { Container,Row,Col,Form,Alert} from "react-bootstrap";
+import { Link } from "react-router-dom";
+
+
+const Login=()=>{
+
+    let [email,setEmail]= useState("")
+    let [erremail,setErrEmail]= useState("")
+    
+    let [password,setPassword]= useState("")
+    let [errpassword,setErrPassword]= useState("")
+
+
+
+    let handleSubmit=(e)=>{
+        e.preventDefault()
+
+        // email
+        if(!email){
+            setErrEmail("email is required")
+        }else{
+            if(!/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){
+                setErrEmail("valid email is required")
+            }
+        }
+
+        //password
+        if(!password){
+            setErrPassword("password is required")
+        }
+    
+    }
+
+
+    return(
+        <>
+            <section id='login'>
+                <Container>
+                    <Row className="justify-content-center">
+                        <Col lg='6'>
+                            <img src="images/logo.svg" alt="logo" />
+                        </Col>
+                        <Col lg='3' className="all">
+                            <Alert>
+                               <h2>Login</h2>
+                            </Alert>
+                            <Form>
+
+                                <Form.Group className="mb-3" controlId="formBasicEmail">
+                                    <Form.Label>Email address</Form.Label>
+                                    <Form.Control type="email" placeholder="your email" value={email} onChange={(e)=>{setEmail(e.target.value)}}/>
+                                    {erremail?
+                                     <Form.Text className="text-muted red">
+                                         {erremail}
+                                    </Form.Text> 
+                                    :
+                                    ""
+                                    }
+                                </Form.Group>
+
+                                <Form.Group className="mb-3" controlId="formBasicPassword">
+                                    <Form.Label>Password</Form.Label>
+                                    <Form.Control type="password" placeholder="password" value={password} onChange={(e)=>{setPassword(e.target.value)}} />
+                                    {errpassword?
+                                     <Form.Text className="text-muted red">
+                                         {errpassword}
+                                    </Form.Text> 
+                                    :
+                                    ""
+                                    }
+                                </Form.Group>
+
+                                <div className="btn">
+                                    <a onClick={handleSubmit} variant="primary" type="submit">
+                                        Submit
+                                </a>
+                                </div>
+                                <p>Have not an Account?<Link to='/reg'> Registration</Link></p>
+                            </Form>
+                        </Col>
+                        
+                    </Row>
+                </Container>
+            </section>
+        </>
+    )
+}
+
+export default Login
+

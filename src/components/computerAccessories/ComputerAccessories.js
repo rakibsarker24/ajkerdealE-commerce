@@ -15,7 +15,7 @@ const ComputerAccessories = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c14.jpg" />
                             <Card.Body>
@@ -42,7 +42,7 @@ const ComputerAccessories = () => {
                     </Col>
 
                     
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c1.jpg" />
                             <Card.Body>
@@ -66,7 +66,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c2.jpg" />
                             <Card.Body>
@@ -90,7 +90,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c4.jpg" />
                             <Card.Body>
@@ -114,7 +114,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c6.jpg" />
                             <Card.Body>
@@ -138,7 +138,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c5.jpg" />
                             <Card.Body>
@@ -162,7 +162,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c8.jpg" />
                             <Card.Body>
@@ -186,7 +186,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c9.jpg" />
                             <Card.Body>
@@ -210,7 +210,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c10.jpg" />
                             <Card.Body>
@@ -234,7 +234,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c11.jpg" />
                             <Card.Body>
@@ -258,7 +258,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c12.jpg" />
                             <Card.Body>
@@ -282,7 +282,7 @@ const ComputerAccessories = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/c13.jpg" />
                             <Card.Body>

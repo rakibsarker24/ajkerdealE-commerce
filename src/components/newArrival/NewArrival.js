@@ -16,7 +16,7 @@ const NewArrival = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p5.webp" />
                             <Card.Body>
@@ -43,7 +43,7 @@ const NewArrival = () => {
                     </Col>
 
                     
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p1.webp" />
                             <Card.Body>
@@ -67,7 +67,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p2.webp" />
                             <Card.Body>
@@ -91,7 +91,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p3.webp" />
                             <Card.Body>
@@ -115,7 +115,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p4.webp" />
                             <Card.Body>
@@ -139,7 +139,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p6.webp" />
                             <Card.Body>
@@ -163,7 +163,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p7.webp" />
                             <Card.Body>
@@ -187,7 +187,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p8.webp" />
                             <Card.Body>
@@ -211,7 +211,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p9.webp" />
                             <Card.Body>
@@ -235,7 +235,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p10.webp" />
                             <Card.Body>
@@ -259,7 +259,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p11.webp" />
                             <Card.Body>
@@ -283,7 +283,7 @@ const NewArrival = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p12.webp" />
                             <Card.Body>

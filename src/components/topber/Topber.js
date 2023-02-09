@@ -10,7 +10,7 @@ const Topber = () => {
         <Container>
             <div className="items">
               <ul>
-                <li><NavLink to='/reg'>Today Offer</NavLink></li>
+                <li><NavLink to='/blood'>Today Offer</NavLink></li>
                 <li><NavLink to='/reg'> Complaint</NavLink></li>
                 <li><NavLink to='/reg'>Tracking Delivery</NavLink></li>
                 <li><NavLink to='/reg'>SignIn</NavLink></li>

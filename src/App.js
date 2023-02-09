@@ -12,6 +12,7 @@ import Psari from './components/pages/Psari';
 import Pshose from './components/pages/Pshose';
 import Pregistratrion from './components/pages/Pregistratrion';
 import Plogin from './components/pages/Plogin';
+import Pblood from './components/pages/Pblood';
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
             <Route path='/threepich' element={ <Pthreepich/>}/>
             <Route path='/saree' element={ <Psari/>}/>
             <Route path='/shose' element={ <Pshose/>}/>
+            <Route path='/blood' element={ <Pblood/>}/>
         </Routes>
     </BrowserRouter>
   );

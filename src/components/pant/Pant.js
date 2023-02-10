@@ -15,7 +15,7 @@ const Pant = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn1.jpg" />
                             <Card.Body>
@@ -42,7 +42,7 @@ const Pant = () => {
                     </Col>
 
                     
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn2.jpg" />
                             <Card.Body>
@@ -66,7 +66,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn3.jpg" />
                             <Card.Body>
@@ -90,7 +90,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn4.jpg" />
                             <Card.Body>
@@ -114,7 +114,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn5.jpg" />
                             <Card.Body>
@@ -138,7 +138,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn6.jpg" />
                             <Card.Body>
@@ -162,7 +162,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p7.webp" />
                             <Card.Body>
@@ -186,7 +186,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p8.webp" />
                             <Card.Body>
@@ -210,7 +210,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p9.webp" />
                             <Card.Body>
@@ -234,7 +234,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn9.jpg" />
                             <Card.Body>
@@ -258,7 +258,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn8.jpg" />
                             <Card.Body>
@@ -282,7 +282,7 @@ const Pant = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/pn7.jpg" />
                             <Card.Body>

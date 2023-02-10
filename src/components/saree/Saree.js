@@ -16,7 +16,7 @@ const Saree = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa1.jpg" />
                             <Card.Body>
@@ -43,7 +43,7 @@ const Saree = () => {
                     </Col>
 
                     
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa2.jpg" />
                             <Card.Body>
@@ -67,7 +67,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa3.jpg" />
                             <Card.Body>
@@ -91,7 +91,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa4.jpg" />
                             <Card.Body>
@@ -115,7 +115,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa5.jpg" />
                             <Card.Body>
@@ -139,7 +139,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa6.jpg" />
                             <Card.Body>
@@ -163,7 +163,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa7.jpg" />
                             <Card.Body>
@@ -187,7 +187,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa8.jpg" />
                             <Card.Body>
@@ -211,7 +211,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa9.jpg" />
                             <Card.Body>
@@ -235,7 +235,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa10.jpg" />
                             <Card.Body>
@@ -259,7 +259,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa11.jpg" />
                             <Card.Body>
@@ -283,7 +283,7 @@ const Saree = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/sa12.jpg" />
                             <Card.Body>

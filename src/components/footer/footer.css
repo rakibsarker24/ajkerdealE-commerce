@@ -106,3 +106,47 @@
     display: inline;
     padding-left: 8px;
 }
+
+
+@media (min-width:320px) and (max-width:575px){
+    #footer img {
+        width: 90px;
+    }
+    #footer p:last-child {
+        font-size: 12px;
+    }
+    #footer .title {
+        margin-top: 20px;
+    }
+    #footer .title h4 {
+        margin-bottom: 12px;
+    }
+    #footer .end p {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    #footer .subs{
+        position: relative;
+    }
+    #footer .sub{
+        position: absolute;
+        left: 65%;
+    }
+    #footer .end .subs a {
+        padding: 4px 5px;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1399px){
+
+}

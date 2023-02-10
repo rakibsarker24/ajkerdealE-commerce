@@ -310,7 +310,7 @@ const ComputerAccessories = () => {
 
                 </Row>
 
-                <Row className=''>
+                {/* <Row className=''>
                     <Col lg='12' >
                         <div className="paginate">
                             <Pagination>
@@ -332,7 +332,7 @@ const ComputerAccessories = () => {
                             </Pagination>
                         </div>
                     </Col>
-                </Row>
+                </Row> */}
             </Container>
         </section>
     </>

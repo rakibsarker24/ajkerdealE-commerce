@@ -47,3 +47,48 @@
     border: 1px solid #f05a2d;
     background-color: #f05a2d;
 }
+
+
+@media (min-width:320px) and (max-width:575px){
+    #banner .items p {
+        font-size: 14px;
+    }
+    #banner .items h2 {
+        font-size: 18px;
+    }
+    #banner .items span {
+        font-size: 26px;
+    }
+    #banner .items a {
+        font-size: 14px;
+    }
+    #banner {
+        margin: 55px 0;
+        padding: 50px 0;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+    #banner .items h2 {
+        font-size: 28px;
+    }
+    #banner .items span {
+        font-size: 35px;
+    }
+    #banner {
+        margin: 65px 0;
+        padding: 70px 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+}
+
+@media (min-width:992px) and (max-width:1199px){
+
+}
+
+@media (min-width:1200px) and (max-width:1399px){
+
+}

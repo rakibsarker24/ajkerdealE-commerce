@@ -311,7 +311,7 @@ const NewArrival = () => {
 
                 </Row>
 
-                <Row className=''>
+                {/* <Row className=''>
                     <Col lg='12' >
                         <div className="paginate">
                             <Pagination>
@@ -333,7 +333,7 @@ const NewArrival = () => {
                             </Pagination>
                         </div>
                     </Col>
-                </Row>
+                </Row> */}
             </Container>
         </section>
     </>

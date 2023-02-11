@@ -20,7 +20,7 @@ const Muslim = () => {
                         </NavLink>
                     </Col>
                     <Col lg='2' sm='4' md='3'>
-                        <NavLink to='/'>
+                        <NavLink to='/borka'>
                             <img src="images/borka.png" alt="" />
                         </NavLink>
                     </Col>

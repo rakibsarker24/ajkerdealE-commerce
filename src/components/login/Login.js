@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import '../login/login.css'
-import { Container,Row,Col,Form,Alert} from "react-bootstrap";
+import { Container,Row,Col,Form,Alert, Button} from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 
@@ -39,10 +39,10 @@ const Login=()=>{
             <section id='login'>
                 <Container>
                     <Row className="justify-content-center">
-                        <Col lg='6'>
+                        <Col lg='6' sm='5' md='5'>
                             <img src="images/logo.svg" alt="logo" />
                         </Col>
-                        <Col lg='3' className="all">
+                        <Col lg='3' sm='5' md='4' className="all">
                             <Alert>
                                <h2>Login</h2>
                             </Alert>
@@ -72,10 +72,10 @@ const Login=()=>{
                                     }
                                 </Form.Group>
 
-                                <div className="btn">
-                                    <a onClick={handleSubmit} variant="primary" type="submit">
+                                <div className="">
+                                    <Button onClick={handleSubmit} variant="primary" type="submit">
                                         Submit
-                                </a>
+                                </Button>
                                 </div>
                                 <p>Have not an Account?<Link to='/reg'> Registration</Link></p>
                             </Form>

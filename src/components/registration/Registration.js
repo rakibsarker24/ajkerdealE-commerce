@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import '../registration/registration.css'
-import { Container,Row,Col,Form,Alert} from "react-bootstrap";
+import { Container,Row,Col,Form,Alert,Button} from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 
@@ -79,7 +79,7 @@ const Registration=()=>{
             <section id='registration'>
                 <Container>
                     <Row className="justify-content-center">
-                        <Col lg='3' className="all">
+                        <Col lg='3' sm='5' md='3' className="all">
                             <Alert>
                                <h2>Registration</h2>
                             </Alert>
@@ -132,15 +132,13 @@ const Registration=()=>{
                                     }
                                 </Form.Group>
 
-                                <div className="btn">
-                                    <a onClick={handleSubmit} variant="primary" type="submit">
-                                        Submit
-                                </a>
+                                <div className="rbtn">
+                                    <Button onClick={handleSubmit}>Submit</Button>
                                 </div>
                                 <p>Have an already Account?<Link to='/login'> Login</Link></p>
                             </Form>
                         </Col>
-                        <Col lg='6'>
+                        <Col lg='6' sm='5' md='5' className="hcol">
                             <img src="images/logo.svg" alt="logo" />
                         </Col>
                     </Row>

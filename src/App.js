@@ -14,6 +14,7 @@ import Pregistratrion from './components/pages/Pregistratrion';
 import Plogin from './components/pages/Plogin';
 import Pblood from './components/pages/Pblood';
 import Pborka from './components/pages/Pborka';
+import PaddCard from './components/pages/PaddCard';
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
             <Route path='/shose' element={ <Pshose/>}/>
             <Route path='/blood' element={ <Pblood/>}/>
             <Route path='/borka' element={ <Pborka/>}/>
+            <Route path='/addCard' element={ <PaddCard/>}/>
         </Routes>
     </BrowserRouter>
   );

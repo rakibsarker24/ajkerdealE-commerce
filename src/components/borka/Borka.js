@@ -5,6 +5,7 @@ import { AiOutlineStar } from 'react-icons/ai';
 import { BsStarHalf } from 'react-icons/bs';
 import { Container,Row,Col,Card,Pagination  } from 'react-bootstrap';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 const Borka = () => {
 
@@ -47,16 +48,12 @@ const Borka = () => {
                                             {items.rating.rate>=3 ? <GiRoundStar/> : items.rating.rate>=2.5 ? <BsStarHalf/> : <AiOutlineStar/>}
                                             {items.rating.rate>=4 ? <GiRoundStar/> : items.rating.rate>=3.5 ? <BsStarHalf/> : <AiOutlineStar/>}
                                             {items.rating.rate>=5 ? <GiRoundStar/> : items.rating.rate>=4.5 ? <BsStarHalf/> : <AiOutlineStar/>}
-                                            {/* <GiRoundStar/>
-                                            <GiRoundStar/>
-                                            <GiRoundStar/>
-                                            <BsStarHalf/>
-                                            <AiOutlineStar/> */}
+                                            
                                         </div>
                                         <Card.Text>
                                             <span>{items.price}</span>
                                             <label>55$</label>
-                                            <a href="">Add to Cart</a>
+                                            <Link to='/addCard'>Add to Cart</Link>
                                         </Card.Text>
                                     </div>
                                     </Card.Text>

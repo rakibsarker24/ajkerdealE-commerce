@@ -29,6 +29,9 @@
 #slider .menu ul li a:hover{
     color:#f05a2d;
 }
+.carousel-control-next {
+	display: none !important;
+}
 
 
 @media (min-width:320px) and (max-width:575px){

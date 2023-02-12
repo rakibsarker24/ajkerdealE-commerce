@@ -11,11 +11,11 @@ const Topber = () => {
             <div className="items">
               <ul>
                 <li><NavLink to='/blood'>Today Offer</NavLink></li>
-                <li><NavLink to='/reg'> Complaint</NavLink></li>
-                <li><NavLink to='/reg'>Tracking Delivery</NavLink></li>
+                <li><NavLink to='/'> Complaint</NavLink></li>
+                <li><NavLink to='/'>Tracking Delivery</NavLink></li>
                 <li><NavLink to='/reg'>SignIn</NavLink></li>
-                <li><NavLink to='/reg'>English</NavLink></li>
-                <li><NavLink to='/reg'>বাংলা</NavLink></li>
+                <li><NavLink to='/'>English</NavLink></li>
+                <li><NavLink to='/'>বাংলা</NavLink></li>
               </ul>
             </div>
         </Container>

@@ -15,7 +15,7 @@ const Shoes = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' sm='4' md='3' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se.jpg" />
                             <Card.Body>
@@ -42,7 +42,7 @@ const Shoes = () => {
                     </Col>
 
                     
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se1.jpg" />
                             <Card.Body>
@@ -66,7 +66,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se2.jpg" />
                             <Card.Body>
@@ -90,7 +90,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se3.jpg" />
                             <Card.Body>
@@ -114,7 +114,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se4.jpg" />
                             <Card.Body>
@@ -138,7 +138,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se5.jpg" />
                             <Card.Body>
@@ -162,7 +162,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se6.jpg" />
                             <Card.Body>
@@ -186,7 +186,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se7.jpg" />
                             <Card.Body>
@@ -210,7 +210,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se8.jpg" />
                             <Card.Body>
@@ -234,7 +234,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se9.jpg" />
                             <Card.Body>
@@ -258,7 +258,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se10.jpg" />
                             <Card.Body>
@@ -282,7 +282,7 @@ const Shoes = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/se11.jpg" />
                             <Card.Body>

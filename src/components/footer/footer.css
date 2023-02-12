@@ -124,6 +124,9 @@
     #footer .end p {
         font-size: 12px;
     }
+    #footer .end .subs input {
+        width: 100%;
+    }
 }
 
 @media (min-width:576px) and (max-width:767px){

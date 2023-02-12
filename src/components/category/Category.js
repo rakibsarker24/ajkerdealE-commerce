@@ -16,42 +16,42 @@ const Category = () => {
         <section id='category'>
             <Container>
                 <Row>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/tshirt'>
                                 <div className="item">
                                    <TbShirt className='icon'/>T-shirt
                                 </div>
                             </NavLink>
                     </Col>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/pant'>
                                 <div className="item">
                                     <GiArmoredPants className='icon'/>Pant
                                 </div>
                             </NavLink>
                     </Col>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/shirt'>
                                 <div className="item">
                                     <RiShirtLine className='icon'/>Shirt
                                 </div>
                             </NavLink>
                     </Col>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/threepich'>
                                 <div className="item">
                                         <GiAmpleDress className='icon'/>Threepich
                                 </div>
                             </NavLink>
                     </Col>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/saree'>
                                 <div className="item">
                                     <GiClothesline className='icon'/>Saree
                                 </div>
                             </NavLink>
                     </Col>
-                    <Col lg='2' md='4' sm='4' xl='2'>
+                    <Col lg='2' md='4' sm='4' xs='6'>
                             <NavLink to='/shose'>
                                 <div className="item">
                                     <GiConverseShoe className='icon'/>Shoes

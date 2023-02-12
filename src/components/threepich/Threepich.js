@@ -15,7 +15,7 @@ const Threepich = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' sm='4' md='3' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp1.jpg" />
                             <Card.Body>
@@ -42,7 +42,7 @@ const Threepich = () => {
                     </Col>
 
                     
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp2.jpg" />
                             <Card.Body>
@@ -66,7 +66,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp3.jpg" />
                             <Card.Body>
@@ -90,7 +90,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp4.jpg" />
                             <Card.Body>
@@ -114,7 +114,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp5.jpg" />
                             <Card.Body>
@@ -138,7 +138,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp6.jpg" />
                             <Card.Body>
@@ -162,7 +162,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp7.jpg" />
                             <Card.Body>
@@ -186,7 +186,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp8.jpg" />
                             <Card.Body>
@@ -210,7 +210,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp11.jpg" />
                             <Card.Body>
@@ -234,7 +234,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp12.jpg" />
                             <Card.Body>
@@ -258,7 +258,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp10.jpg" />
                             <Card.Body>
@@ -282,7 +282,7 @@ const Threepich = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/tp9.jpg" />
                             <Card.Body>

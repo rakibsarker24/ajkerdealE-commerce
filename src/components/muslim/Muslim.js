@@ -9,32 +9,32 @@ const Muslim = () => {
         <section id='muslim'>
             <Container>
                 <Row>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3' xs='6'>
                         <NavLink to='/'>
                             <img src="images/muslin.png" alt="" />
                         </NavLink>
                     </Col>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3' xs='6'>
                         <NavLink to='/'>
                             <img src="images/abaya.png" alt="" />
                         </NavLink>
                     </Col>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3'xs='6'>
                         <NavLink to='/borka'>
                             <img src="images/borka.png" alt="" />
                         </NavLink>
                     </Col>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3'xs='6'>
                         <NavLink to='/'>
                             <img src="images/hijab.png" alt="" />
                         </NavLink>
                     </Col>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3'xs='6'>
                         <NavLink to='/'>
                             <img src="images/khimar.png" alt="" />
                         </NavLink>
                     </Col>
-                    <Col lg='2' sm='4' md='3'>
+                    <Col lg='2' sm='4' md='3'xs='6'>
                         <NavLink to='/'>
                             <img src="images/scarf.png" alt="" />
                         </NavLink>

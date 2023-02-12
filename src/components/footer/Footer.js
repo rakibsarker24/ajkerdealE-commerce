@@ -15,7 +15,7 @@ const Footer = () => {
         <section id='footer'>
             <Container>
                 <Row>
-                    <Col lg='3' sm='6'>
+                    <Col lg='3' sm='6' xs='6'>
                         <div className="left">
                             <img src="images/logo.png" alt="logo" />
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident tenetur ipsum esse, aut ab ducimus laboriosam consequuntur ipsam deserunt autem?</p>
@@ -30,7 +30,7 @@ const Footer = () => {
                         <p>Please Follow Us.</p>
                     </Col>
                     
-                    <Col lg='3' sm='6'>
+                    <Col lg='3' sm='6' xs='6'>
                         <div className="title">
                             <h4>Hot Deal</h4>
                         </div>
@@ -45,7 +45,7 @@ const Footer = () => {
                             </div>
                     </Col>
 
-                    <Col lg='3' sm='6'>
+                    <Col lg='3' sm='6' xs='6'>
                         <div className="title">
                             <h4>Category</h4>
                         </div>
@@ -60,7 +60,7 @@ const Footer = () => {
                             </div>
                     </Col>
 
-                    <Col lg='3' sm='6'>
+                    <Col lg='3' sm='6' xs='6'>
                         <div className="title">
                             <h4>Daily News</h4>
                         </div>

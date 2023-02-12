@@ -15,7 +15,7 @@ const Tshirt = () => {
                     </div>
                 </Row>
                 <Row>
-                    <Col lg='2' sm='4' md='3' className='mb-3'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-3'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p5.webp" />
                             <Card.Body>
@@ -42,7 +42,7 @@ const Tshirt = () => {
                     </Col>
 
                     
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p1.webp" />
                             <Card.Body>
@@ -66,7 +66,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t1.jpg" />
                             <Card.Body>
@@ -90,7 +90,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p3.webp" />
                             <Card.Body>
@@ -114,7 +114,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/p4.webp" />
                             <Card.Body>
@@ -138,7 +138,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t2.jpg" />
                             <Card.Body>
@@ -162,7 +162,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t3.jpg" />
                             <Card.Body>
@@ -186,7 +186,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t4.jpg" />
                             <Card.Body>
@@ -210,7 +210,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t5.jpg" />
                             <Card.Body>
@@ -234,7 +234,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t6.jpg" />
                             <Card.Body>
@@ -258,7 +258,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t7.jpg" />
                             <Card.Body>
@@ -282,7 +282,7 @@ const Tshirt = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg='2' sm='4' md='3' className='mb-4'>
+                    <Col lg='2' sm='4' md='3' xs='6' className='mb-4'>
                         <Card style={{ width: '100%' }}>
                             <Card.Img variant="top" src="images/t8.jpg" />
                             <Card.Body>

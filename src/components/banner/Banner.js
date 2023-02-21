@@ -14,6 +14,7 @@ const Banner = () => {
                             <p>FEST DEAL</p>
                             <h2>Upto <span>30%</span> OFF for You.</h2>
                             <NavLink to=''>Go to Shop</NavLink>
+                            
                         </div>
                     </Col>
                 </Row>
